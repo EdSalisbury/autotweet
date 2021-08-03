@@ -1,0 +1,13 @@
+{
+  "name": "AutoTweet",
+  "version": "0.1.0",
+  "description": "Automatically tweet when there's a new video posted on YouTube",
+  "main": "index.js",
+  "repository": "https://github.com/EdSalisbury/autotweet",
+  "author": "Ed Salisbury",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "twitter-lite": "^1.1.0"
+  }
+}
